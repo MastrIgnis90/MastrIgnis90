@@ -1,4 +1,8 @@
-## Hi there 👋
+## Sebastian Wild
+- Intermediate to Senior Game Developer
+- Unreal C++ Programmer with a specialty in Unreal's Gameplay Ability System
+- Passion for designing combat and progression systems
+
 
 <!--
 **MastrIgnis90/MastrIgnis90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
